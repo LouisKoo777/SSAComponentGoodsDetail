@@ -27,7 +27,7 @@ public class GooodsDetailViewController: UIViewController {
     
     public override func viewWillLayoutSubviews() {
         super .viewWillLayoutSubviews()
-        statusLabel.frame = CGRect(x: 0, y: view.frame.size.height*0.5, width: 100, height: 35)
+        statusLabel.frame = CGRect(x: view.frame.size.width*0.5-50, y: view.frame.size.height*0.5, width: 100, height: 35)
         buyBtn.frame = CGRect(x: 0, y: view.frame.size.height-45, width: view.frame.size.width, height: 45)
     }
     
