@@ -199,12 +199,10 @@ fi
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SSAComponentCheckOutCategory/SSAComponentCheckOutCategory.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/SSAComponentGoodsDetail/SSAComponentGoodsDetail.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SSAComponentCheckOutCategory/SSAComponentCheckOutCategory.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/SSAComponentGoodsDetail/SSAComponentGoodsDetail.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

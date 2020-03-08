@@ -17,7 +17,7 @@ import UIKit
 
         let goodsDetailViewController = GooodsDetailViewController()
         goodsDetailViewController.goodsName = params["goodsName"] as? String
-        goodsDetailViewController.goodsName = params["goodsId"] as? String
+        goodsDetailViewController.goodsId = params["goodsId"] as? String
         return goodsDetailViewController
     }
     

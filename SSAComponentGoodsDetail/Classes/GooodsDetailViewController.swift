@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import SSAComponentCheckOutCategory
+import CTMediator
 
 public class GooodsDetailViewController: UIViewController {
     
@@ -25,7 +27,7 @@ public class GooodsDetailViewController: UIViewController {
     
     public override func viewWillLayoutSubviews() {
         super .viewWillLayoutSubviews()
-        statusLabel.frame = CGRect(x: 0, y: 0, width: 100, height: 35)
+        statusLabel.frame = CGRect(x: 0, y: view.frame.size.height*0.5, width: 100, height: 35)
         buyBtn.frame = CGRect(x: 0, y: view.frame.size.height-45, width: view.frame.size.width, height: 45)
     }
     
@@ -51,7 +53,10 @@ public class GooodsDetailViewController: UIViewController {
 
 extension GooodsDetailViewController {
     @objc func clickBuyBtn() -> Void {
-        
+        let controller = CTMediator.sharedInstance()?.goToCheckOutVC4Swift( { (result) in
+            self.statusLabel.text = result
+        }, goodsId: "test", goodsName: goodsName)
+        navigationController?.pushViewController(controller!, animated: true)
     }
 }
 

@@ -1,4 +1,9 @@
+
+source 'https://github.com/LouisKoo777/SSATestPrivatePodsSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
+
 
 target 'SSAComponentGoodsDetail_Example' do
   pod 'SSAComponentGoodsDetail', :path => '../'
@@ -6,6 +11,7 @@ target 'SSAComponentGoodsDetail_Example' do
   target 'SSAComponentGoodsDetail_Tests' do
     inherit! :search_paths
 
+    pod 'SSAComponentCheckOutCategory'
     
   end
 end
