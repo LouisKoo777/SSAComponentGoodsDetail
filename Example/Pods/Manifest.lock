@@ -2,7 +2,7 @@ PODS:
   - CTMediator (25)
   - SSAComponentCheckOutCategory (0.0.2):
     - CTMediator
-  - SSAComponentGoodsDetail (0.0.1):
+  - SSAComponentGoodsDetail (0.0.2):
     - SSAComponentCheckOutCategory
 
 DEPENDENCIES:
@@ -22,7 +22,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
   SSAComponentCheckOutCategory: a7b42cb083cecae7663b479dc4192794737c3c9f
-  SSAComponentGoodsDetail: e6a134c3f5ba09b704a4fbe0b2715d50462d9920
+  SSAComponentGoodsDetail: 8a9ba691394275df05afc05b2dca2dca44a28ea2
 
 PODFILE CHECKSUM: 60f4cde462113a18dce1f2e73de7a05b1435e7d5
 

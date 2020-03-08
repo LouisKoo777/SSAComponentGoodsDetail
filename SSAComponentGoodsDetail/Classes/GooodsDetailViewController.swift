@@ -53,7 +53,7 @@ public class GooodsDetailViewController: UIViewController {
 
 extension GooodsDetailViewController {
     @objc func clickBuyBtn() -> Void {
-        let controller = CTMediator.sharedInstance()?.goToCheckOutVC4Swift( { (result) in
+        let controller = CTMediator.sharedInstance().goToCheckOutVC4Swift( { (result) in
             self.statusLabel.text = result
         }, goodsId: "test", goodsName: goodsName)
         navigationController?.pushViewController(controller!, animated: true)

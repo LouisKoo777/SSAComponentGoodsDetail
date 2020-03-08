@@ -112,30 +112,30 @@
 		548C69D7C9D2F9A948ECC3EE45B824B7 /* SSAComponentGoodsDetail.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SSAComponentGoodsDetail.release.xcconfig; sourceTree = "<group>"; };
 		55CCC510AA1FE9B1DC00F450A137747E /* SSAComponentCheckOutCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SSAComponentCheckOutCategory-dummy.m"; sourceTree = "<group>"; };
 		56447BC255CF1E7EF309EAB429E25082 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		5B62BA40F468C2AE46F371A6B6613D70 /* SSAComponentGoodsDetail.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SSAComponentGoodsDetail.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5B62BA40F468C2AE46F371A6B6613D70 /* SSAComponentGoodsDetail.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SSAComponentGoodsDetail.framework; path = SSAComponentGoodsDetail.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		61095731FFD4B084393E663966AA77A3 /* SSAComponentGoodsDetail.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SSAComponentGoodsDetail.debug.xcconfig; sourceTree = "<group>"; };
 		63FC26078D4DBCEACBD0921781A08793 /* SSAComponentCheckOutCategory-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSAComponentCheckOutCategory-umbrella.h"; sourceTree = "<group>"; };
 		64D354E7D0E2647DB6F4DAF3FDABD52F /* Pods-SSAComponentGoodsDetail_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SSAComponentGoodsDetail_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		68FD71EBA2CC98523D3AACCE8A0D43C8 /* CTMediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CTMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		68FD71EBA2CC98523D3AACCE8A0D43C8 /* CTMediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CTMediator.framework; path = CTMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		69D7C3F137F93BD0866BA0D535793BA3 /* SSAComponentCheckOut_Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SSAComponentCheckOut_Extension.swift; path = SSAComponentCheckOutCategory/Classes/SSAComponentCheckOut_Extension.swift; sourceTree = "<group>"; };
 		6A07608E7C63ACBA6E9ABD9B02E515C5 /* GooodsDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GooodsDetailViewController.swift; path = SSAComponentGoodsDetail/Classes/GooodsDetailViewController.swift; sourceTree = "<group>"; };
-		6AE5BD462BAA669BB91963110F282369 /* Pods_SSAComponentGoodsDetail_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SSAComponentGoodsDetail_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6AE5BD462BAA669BB91963110F282369 /* Pods_SSAComponentGoodsDetail_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SSAComponentGoodsDetail_Example.framework; path = "Pods-SSAComponentGoodsDetail_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BF50F4D8A0231B82444A328118A2B40 /* Pods-SSAComponentGoodsDetail_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SSAComponentGoodsDetail_Example.modulemap"; sourceTree = "<group>"; };
 		7622875F34F0A6E01F9BB1BBBF55EA4C /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CTMediator.m; path = CTMediator/CTMediator/CTMediator.m; sourceTree = "<group>"; };
-		7A843D67100DC187FC6D687F2A913987 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7A843D67100DC187FC6D687F2A913987 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		8506E70661F564696575D179F970C792 /* SSAComponentGoodsDetail-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSAComponentGoodsDetail-umbrella.h"; sourceTree = "<group>"; };
 		8F0C1E0A8789B53EC83F7A8ABE394B36 /* Pods-SSAComponentGoodsDetail_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SSAComponentGoodsDetail_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9445952892B6B8CCD1B9D95E4DE3F866 /* Pods-SSAComponentGoodsDetail_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SSAComponentGoodsDetail_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		985A7B4824088373EBBEA8F6FEF49ACD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		985A7B4824088373EBBEA8F6FEF49ACD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		9943B8F401B54798471EBD2345EF08AB /* SSAComponentCheckOutCategory.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SSAComponentCheckOutCategory.modulemap; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A279CC231E2CDC282BA2DF961B166282 /* SSAComponentCheckOutCategory.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SSAComponentCheckOutCategory.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AA0641D1681FB3901C045EAC80E70025 /* SSAComponentGoodsDetail.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SSAComponentGoodsDetail.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A279CC231E2CDC282BA2DF961B166282 /* SSAComponentCheckOutCategory.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SSAComponentCheckOutCategory.framework; path = SSAComponentCheckOutCategory.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA0641D1681FB3901C045EAC80E70025 /* SSAComponentGoodsDetail.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SSAComponentGoodsDetail.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ADFDD7DA5BADFD14309112AD7A80D9DC /* CTMediator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.debug.xcconfig; sourceTree = "<group>"; };
 		B39E0219EDEEE47602F8F438266A7A5D /* CTMediator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.release.xcconfig; sourceTree = "<group>"; };
 		B469D5703126B1E26D5EEB7262AB7DD7 /* CTMediator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CTMediator.modulemap; sourceTree = "<group>"; };
 		B526E5994CAA09D6C2179C5D7908E0F7 /* SSAComponentCheckOutCategory.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SSAComponentCheckOutCategory.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD823597905919622074268B85A437FF /* Pods_SSAComponentGoodsDetail_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SSAComponentGoodsDetail_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD823597905919622074268B85A437FF /* Pods_SSAComponentGoodsDetail_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SSAComponentGoodsDetail_Tests.framework; path = "Pods-SSAComponentGoodsDetail_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C799800D0E381DD7836D7BA297B3C669 /* Pods-SSAComponentGoodsDetail_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SSAComponentGoodsDetail_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		CF82872163150115AE1504A550026344 /* CTMediator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-prefix.pch"; sourceTree = "<group>"; };
 		D2B8BDE5C30FA1F4E488F5C09224E328 /* Target_goodsDetail.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Target_goodsDetail.swift; path = SSAComponentGoodsDetail/Classes/Target_goodsDetail.swift; sourceTree = "<group>"; };
@@ -205,6 +205,7 @@
 				7622875F34F0A6E01F9BB1BBBF55EA4C /* CTMediator.m */,
 				4A38C1D69FB37690D7BFAA816E92F26A /* Support Files */,
 			);
+			name = CTMediator;
 			path = CTMediator;
 			sourceTree = "<group>";
 		};
@@ -284,6 +285,7 @@
 				69D7C3F137F93BD0866BA0D535793BA3 /* SSAComponentCheckOut_Extension.swift */,
 				B6B4D28767A2D317344E489DE9518003 /* Support Files */,
 			);
+			name = SSAComponentCheckOutCategory;
 			path = SSAComponentCheckOutCategory;
 			sourceTree = "<group>";
 		};
@@ -981,7 +983,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

@@ -1,6 +1,6 @@
 {
   "name": "SSAComponentGoodsDetail",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A short description of SSAComponentGoodsDetail.",
   "description": "TODO: Add long description of the pod here. test\nA short description of SSAComponentGoodsDetail.",
   "homepage": "https://github.com/LouisKoo777/SSAComponentGoodsDetail.git",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/LouisKoo777/SSAComponentGoodsDetail.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"
