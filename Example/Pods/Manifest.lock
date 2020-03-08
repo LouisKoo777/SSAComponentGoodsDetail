@@ -1,0 +1,16 @@
+PODS:
+  - SSAComponentGoodsDetail (0.0.1)
+
+DEPENDENCIES:
+  - SSAComponentGoodsDetail (from `../`)
+
+EXTERNAL SOURCES:
+  SSAComponentGoodsDetail:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSAComponentGoodsDetail: f3b3bda8089d67c2b13df5c08c4b8b7d73731294
+
+PODFILE CHECKSUM: 8bcb2860dda91baa618658db752aabf559ee4d96
+
+COCOAPODS: 1.9.0

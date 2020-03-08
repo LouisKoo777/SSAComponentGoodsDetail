@@ -1,0 +1,6 @@
+framework module Pods_SSAComponentGoodsDetail_Example {
+  umbrella header "Pods-SSAComponentGoodsDetail_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

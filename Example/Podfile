@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSAComponentGoodsDetail_Example' do
+  pod 'SSAComponentGoodsDetail', :path => '../'
+
+  target 'SSAComponentGoodsDetail_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
